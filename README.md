@@ -1,4 +1,4 @@
-# Dolly Url Shortener
+# Url Shortener
 
 # Installation and Instructions
 
