@@ -29,6 +29,8 @@
 }
 ```
 
+5. For ease of use, there's also a simple HTML page with a form that you can use to send requests to the **Express Server**. It's located in the `/public` directory. Try it out!
+
 # Running the tests
 
 The `npm t` command will run all of the jest tests and display the test coverage in your terminal.
