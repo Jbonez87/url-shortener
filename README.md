@@ -29,7 +29,7 @@
 }
 ```
 
-5. For ease of use, there's also a simple HTML page with a form that you can use to send requests to the **Express Server**. It's located in the `/public` directory. Try it out!
+5. For ease of use, there's also a simple HTML page with a form that you can use to send requests to the **Express Server**. It's located in the `/public` directory. Try it out in your browser!
 
 # Running the tests
 
