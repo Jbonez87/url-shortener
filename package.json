@@ -1,7 +1,7 @@
 {
   "name": "dolly-url-shortener",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a test application that creates shortened URLs",
   "main": "index.js",
   "scripts": {
     "compile": "rimraf dist tsconfig.tsbuildinfo && tsc",
