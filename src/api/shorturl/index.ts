@@ -19,7 +19,7 @@ export const shortUrl: Handler = async (req, res, next) => {
       /* 
       * The $or operator allows the collection to use
       * a single query for both filters using the 
-      * originUrl as the value
+      * originUrl as the value for long and short urls
       */
       let url = await urlCollection.findOne({
         $or: [
